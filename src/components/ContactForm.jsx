@@ -100,10 +100,10 @@ const handleSubmit = async (e) => {
           className="text-center mb-8 sm:mb-12 md:mb-16"
         >
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-3 sm:mb-4">
-            Let's Talk <span className="gradient-text">Growth</span>
+            Let&apos;s Talk <span className="gradient-text">Growth</span>
           </h2>
           <p className="text-gray-400 text-sm sm:text-base md:text-lg px-2">
-            Free 30-minute consultation. No obligation. You'll get actionable insights about your business.
+            Free 30-minute consultation. No obligation. You&apos;ll get actionable insights about your business.
           </p>
         </motion.div>
 
@@ -130,7 +130,7 @@ const handleSubmit = async (e) => {
               </motion.div>
               <h3 className="text-xl sm:text-2xl font-bold text-white mb-2">Thank you!</h3>
               <p className="text-gray-400 mb-4 sm:mb-6 text-sm sm:text-base">
-                We've received your message. Expect a call within 2 minutes.
+                We&apos;ve received your message. Expect a call within 2 minutes.
               </p>
               <p className="text-xs sm:text-sm text-gray-500">
                 In the meantime, you can reach us on WhatsApp for instant response.

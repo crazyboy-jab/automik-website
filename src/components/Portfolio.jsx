@@ -77,7 +77,7 @@ export default function Portfolio() {
             <span className="gradient-text">Real Results</span> from Real Clients
           </h2>
           <p className="text-gray-400 text-sm sm:text-base md:text-lg">
-            See how we've transformed businesses like yours.
+            See how we&apos;ve transformed businesses like yours.
           </p>
         </motion.div>
 
@@ -163,7 +163,7 @@ export default function Portfolio() {
           className="mt-12 sm:mt-16 text-center"
         >
           <p className="text-gray-400 mb-4 sm:mb-6 text-sm sm:text-base md:text-lg">
-            Your success story could be next. Let's talk.
+            Your success story could be next. Let&apos;s talk.
           </p>
           <motion.button
             whileHover={{ scale: 1.05 }}
